@@ -4,7 +4,6 @@ Labs for the RGU module on programming concepts for the MSc Business Analytics c
 
 ## Block 1 — Beginning Programming
 
-— Introduction to Programming
 - Unit 1.1 — Introduction to Programming
 - Unit 1.2 — Operators and Assignment
 - Unit 1.3 — Defining and Calling Functions
