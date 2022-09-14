@@ -1,0 +1,6 @@
+Today's fruit prices are:
+-------------------
+| apples   £ 0.62 |
+| bananas  £ 0.13 |
+| oranges  £ 0.30 |
+-------------------

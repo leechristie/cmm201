@@ -1,0 +1,9 @@
+Toronto:9
+Québec City:-1
+Halifax:0
+Winnipeg:7
+Victoria:9
+Charlottetown:2
+Regina:-3
+Edonton:2
+St. John's:2
