@@ -1,4 +1,4 @@
-# CMM201 — Programming Concepts for Business Analytics
+# Programming Concepts for Business Analytics
 
 Labs for the RGU module on programming concepts for the MSc Business Analytics course.
 
