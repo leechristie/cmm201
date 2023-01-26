@@ -2,6 +2,8 @@
 
 Labs for the RGU module on programming concepts for the MSc Business Analytics course.
 
+https://www4.rgu.ac.uk/prospectus/modules/disp_moduleView.cfm?Descriptor=CMM201
+
 The first three weeks of videos are linked below for students arriving late.
 
 ## Block 1 — Beginning Programming
