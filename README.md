@@ -20,6 +20,6 @@ The first three weeks of videos are linked below for students arriving late.
 - Unit 2.1 — Mutable Objects<sup>*</sup>
 - Unit 2.3 — Data Manipulation<sup>*</sup>
 - Unit 2.4 — Data Visualisation<sup>*</sup>
-- Unit 2.5 — Reporting with Notebooks<sup>*</sup>
+- Unit 2.5 — Communicating in Code<sup>*</sup>
 
 <sup>*</sup> Videos and quizzes for weeks 4 through 10 are only available via [CampusMoodle](https://campusmoodle.rgu.ac.uk/).
