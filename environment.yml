@@ -1,0 +1,10 @@
+name: cmm201
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - jupyter
+  - ipywidgets
+  - pyarrow
+  - plotly
+  - pandas
